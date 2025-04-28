@@ -3,4 +3,6 @@ Exemplo de um arquivo com teste - Linha 02
 Exemplo de um arquivo com teste - Linha 03
 Exemplo de um arquivo com teste - Linha 04
 Exemplo de um arquivo com teste - Linha 05
-~
+Exemplo de um arquivo com teste - Linha 06
+Exemplo de um arquivo com teste - Linha 07
+Linha 8
