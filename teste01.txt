@@ -1,1 +1,2 @@
 Exemplo de um arquivo com teste - Linha 01
+Exemplo de um arquivo com teste - Linha 02
